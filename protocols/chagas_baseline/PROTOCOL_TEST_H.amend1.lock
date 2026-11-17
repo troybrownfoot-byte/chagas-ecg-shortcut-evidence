@@ -1,0 +1,8 @@
+c1b9e4179120bfd6ddc2381a47345ec558991c640e565bd27c237a420431ccd7 *chagas_baseline/PROTOCOL_TEST_H.amend1.md
+f289dba916034eddb726ef74f52ce0d5100673f741507e527dfc1b18e6501345 *chagas_baseline/analysis/test_h_abl_eval.py
+61ed19c20026cacc5ff6f3d9c8eb15960d27df85e1ff70f9e8566da28b50c9ff *chagas_baseline/analysis/test_h_score.py
+39ca3b2bbd41d363a64b1a8b922d7c554adc0fdd77139fd4e21b15dc76923428 *chagas_baseline/analysis/test_h_score.v0.py
+f6f38396e237752fd66e1dd4ad9a6d7f5d6800d54f93ff44fcc3d86f796fdd64 *chagas_baseline/remote/test_h_local.sh
+e7ffbbb5a4440346227a6380bfe166aa7953ac7969f3d68397c379d2873b4336 *chagas_baseline/remote/fetch_ckpts_th.sh
+checks: test_h_score.py v1 defaults == v0 output bit for bit (1,024 val rows, AGADS_s1234); --fmt orig 12-lead == earlier local EPCDS score_orig exactly; test_h_abl_eval.py val dry run on stand-ins (10 draws) end to end
+first locked 02:14:10; re-locked 2026-10-28 02:14:22 only to correct the header time (an estimate replaced by the clock time); no INT1/EXP12/ABL val result and no TEST_H test score existed at either time

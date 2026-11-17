@@ -1,0 +1,6 @@
+30ebebb0d388e251e13e16dc4ea808c936512480ec4fba30309dfd42aba2a356 *chagas_baseline/PROTOCOL_TEST_F.md
+277dcf357cc30881bc560238bcfc75e4b07827a9e85656004c08d6b7df9a3b6f *chagas_baseline/analysis/test_f_score.py
+a598fe0f28e4f6fc466dfb32e4e61014bfead702a2109a5b59727a02802c9748 *chagas_baseline/analysis/test_f_eval.py
+da1edbd3dd4f20c6b5c8fba4ace4491e2c69ad04915fbe38b618f12fa26f8c25 *chagas_founder/train_module.exp2.py
+val dry runs: (1) test_f_score.py on val, EPCDSE_s1237 vs the A6000 val scores: max |diff| 1.44e-4, mean 3.5e-6, pooled V1 .84931 vs .84932 (criterion <= 5e-4 met); (2) test_f_eval.py --split val reproduces EXP6 (EPCDSE_N-EPCDSR_N strat V1 +.0066 [+.0018,+.0112]) and EXP2 (+.0041); TG1 on val True
+locked 2026-10-27 18:58:03 Beijing time (UTC+8); no test score of these models existed at this time

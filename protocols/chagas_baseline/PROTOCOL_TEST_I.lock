@@ -1,0 +1,4 @@
+61591906ce47361a2cadb354b179eb748d226370d9c56f1839d4288ef43242ad *chagas_baseline/PROTOCOL_TEST_I.md
+71560989e91c5ae883a9944cbd9a0cb2747a090d622effc866765ec070787452 *chagas_baseline/analysis/test_i_eval.py
+checks before locking: val dry run twice (before and after the CinCo NaN handling) - identical metrics and CIs (max |diff| 0.0); every val row scored; val metrics reproduce metrics_preview_val.json for the shared methods
+locked 2026-10-31 12:13:10 Beijing time (UTC+8); no test metric of this protocol existed

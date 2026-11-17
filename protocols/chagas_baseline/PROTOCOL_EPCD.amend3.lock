@@ -1,0 +1,6 @@
+0078968588966315d29811977ba7055b0991c034c513e982bdf44704d919abe0 *chagas_baseline/PROTOCOL_EPCD.amend3.md
+ce6f861a560e9cc6b3f31181fa6994e55bfe2e81bb013eaed189770c859ae336 *chagas_founder/train_module.amend3.py
+efcb35741dfc30c0f0540666d7ff19eca8b625053da3edc453fe77041970c567 *chagas_baseline/remote/epcd_gate3.sh
+5304d9f5cbaedfd0f2c78ac7e630016ec61267eb51b08db33bbb28f90542cb99 *chagas_baseline/remote/epcd_compare3.py
+741cdb7f1558b7c0be29cd70ce1c68fe9129b696ce5065d4e3cfbbfbe23db587 *chagas_baseline/remote/epcd_train3.sh
+locked 2026-10-27 03:20:11 Beijing time (UTC+8)

@@ -1,0 +1,6 @@
+fe5e45e110103c693ca84dac866c3c4fb250bdf2c49c47762e214d6ea2c9c6cc *PROTOCOL_TEST_NCE.md
+11d91645d0d6912b51915390e28f302e6818acc09c01425040da31aea7ca26df *analysis/test_nce.py
+524faa18544b64c6786535d50a4f7a20f867d21f6fd6e064a75cae469618d293 *remote/test_nce_ws.sh
+test read 20 (NCE, 12 leads; runs only if NCE stage B1 and its external endpoint pass); locked before any NCE result and any test label
+locked 2026-11-03 02:52:12 Beijing time
+VOID 2026-11-03 05:07:54 Beijing: not run; written for the first NCE version (PROTOCOL_NCE amendment 2); runner stopped while waiting.

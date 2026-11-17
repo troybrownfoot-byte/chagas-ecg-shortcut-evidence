@@ -1,0 +1,8 @@
+# 2026-10-25T15:00:43+08:00 TEST_C protocol locked (drafted after user approval to draft + dry run; test read needs separate approval)
+5530d10345d1ff3b110a5af76880bd81dc99f7927f088e9d71f887d485958ffb  PROTOCOL_TEST_C.md
+# 2026-10-25T15:18:13+08:00 val dry run passed (TEST_C scoring path == val_scores_leads.csv, max|diff| 0.0; test_c_eval --split val reproduces aga_eval AGA-DEME exactly; 12-lead engineering check true); scripts locked
+8a12f0242a03714be44314569d61c44632023bc7d38389cf2c3dccfb81e6ae82  /media/hyhz/GZR/chagas_founder/train_module.py
+af903ed5e63c7db4e649ebab893827a474b433fd342783d10c3434038c8c3d3c  analysis/test_c_eval.py
+# 2026-10-25T15:43:11+08:00 USER APPROVAL of the one-shot TEST_C test read ("批准")
+# 2026-10-25T15:59:39+08:00 test result appended (one shot)
+30715c2fd0902983f4214badaa1da04dbbaf182d6ec3bf4124172c2f8c2b6080  PROTOCOL_TEST_C.md

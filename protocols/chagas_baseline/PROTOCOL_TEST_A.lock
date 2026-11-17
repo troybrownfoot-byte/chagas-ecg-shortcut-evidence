@@ -1,0 +1,11 @@
+# 2026-10-23T14:42:31+08:00 PROTOCOL_TEST_A draft + script (dry run on val next; test not read)
+434bf944988e8b761bea897f191f67cddae278d2fb119a843bacf8926a017772  PROTOCOL_TEST_A.md
+cd29a0707d05ce6d919339b11582059fa1c6fc115443d87f4f35aae75dff9b6a  analysis/test_a.py
+# 2026-10-23T15:02:20+08:00 dry-run fixes: fold checkpoints loaded as team_code.load_model; lengths from WFDB headers (val dry run: a0 stage passed, unchanged code)
+d9d68ac4536078c33ad369d2254a943f1f955a5c7ca4cacb0eb6f88b4528497d  analysis/test_a.py
+00c7324851304ef85cb54061f56bd6434b7263bd4101caff98156a55b5ce3e5e  PROTOCOL_TEST_A.md
+# 2026-10-24T12:36:42+08:00 val dry run 3 passed (see PAPER2_STATE 10-24 12:32); user approved the one-shot test run 2026-10-24 ("2,3项可以开始了"); files unchanged since the lock above
+00c7324851304ef85cb54061f56bd6434b7263bd4101caff98156a55b5ce3e5e  PROTOCOL_TEST_A.md
+d9d68ac4536078c33ad369d2254a943f1f955a5c7ca4cacb0eb6f88b4528497d  analysis/test_a.py
+# 2026-10-24T13:35:18+08:00 test result appended (one shot)
+a9a426a5703ba291351bf64e1e22f52a3e28ccad84aadd1ae2c8786124f5ed9a  PROTOCOL_TEST_A.md

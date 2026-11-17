@@ -1,0 +1,3 @@
+# PROTOCOL_EPCD amendment 3 evaluation script, locked before any AGADS score; dry run with stand-ins (EPCDS:=DEME, AGADS:=AGA) reproduced the locked aga_eval.json exactly (red stratified V1 +0.0146 [+0.0085, +0.0208]; H2 True)
+39aba05e8d732f6012b7f0fcd50fe63ccfe6271de7ae6f129b3265bdbc66d8f5 *chagas_baseline/analysis/agads_eval.py
+locked 2026-10-27 03:35:07 Beijing time (UTC+8)

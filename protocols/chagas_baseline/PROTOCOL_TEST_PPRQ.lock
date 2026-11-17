@@ -1,0 +1,5 @@
+308aeaed38fbd8b43be593d719287e4a07204e04e8e00d218837c0d4c887a52c *PROTOCOL_TEST_PPRQ.md
+246e1e0eb108d134b8edca8c5cfacff5b7e337db9f128f02c5c49b1880022869 *analysis/test_pprq.py
+b0fa21193d1526b7aecc0f9d24812b83d794ada20d66819891804b3e42349347 *remote/test_pprq_ws.sh
+test read 19 (PPR-Q, 12 leads); locked before any test label of a PPR model
+locked 2026-11-03 02:18:00 Beijing time

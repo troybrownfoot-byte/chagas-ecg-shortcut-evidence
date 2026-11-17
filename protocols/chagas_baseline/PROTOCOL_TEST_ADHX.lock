@@ -1,0 +1,5 @@
+3ce9b4a135e538e6bd5e03d5d32ff0e6009c5f01d0bdaf4b300ea1118e2bdcac *PROTOCOL_TEST_ADHX.md
+5878e0966327b86d9fbfe270a93972391948af8abd71c8c8ece3d646a095c040 *analysis/test_adhx.py
+b128524712939ca03de23d62917adff3f046b22f31f2db53a87b11d325674652 *remote/test_adhx_ws.sh
+test read 21 (ADH unseen-cohort robustness, SaMi-Trop-naive models only); locked before any test label of these models
+locked 2026-11-03 09:04:01 Beijing time

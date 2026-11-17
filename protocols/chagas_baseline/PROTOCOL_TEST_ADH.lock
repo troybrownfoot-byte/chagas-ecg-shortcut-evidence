@@ -1,0 +1,5 @@
+1dcfcba1e84c68c1027a9ac88027ab5fd2c664505d19beb12feb0589526b0703 *PROTOCOL_TEST_ADH.md
+ea368b094b59a780d9d99958adbe9b5bc01eb497f554b35c8883cb31c9512159 *analysis/test_adh.py
+e0b3f3aa5162f8e808778ba92396b20862462ede3a1d2656ce0e5f5c38853ef7 *remote/test_adh_ws.sh
+test read 17 (runs only if PROTOCOL_ADH stage B1 passes); locked before the B1 result and before any test label
+locked 2026-11-03 01:22:14 Beijing time

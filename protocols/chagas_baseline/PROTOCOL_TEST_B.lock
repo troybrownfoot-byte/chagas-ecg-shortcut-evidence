@@ -1,0 +1,12 @@
+# 2026-10-24T18:39:48+08:00 TEST_B protocol locked (module M fixed by PROTOCOL_MOD amendment 1; scripts to be locked after the val dry run)
+240c2e15c47d4b05f59390900efb8e6f5100ca852195a59748a47c9042762bd3  PROTOCOL_TEST_B.md
+# 2026-10-24T18:54:22+08:00 val dry run passed (builder bitwise = existing val memmaps; scores max|diff| 0.0; evaluation reproduces mod_eval DEM-BASE exactly); scripts locked
+98b531db8b7407f5308616d48ec25776e8f2c1e4d96ca260553826a7683008b0  /media/hyhz/GZR/chagas_founder/build_split_memmaps.py
+9250e1cc0fe8aaeaba936c066f021eea7b504ad1e18a73bd1f79e3873d3b7167  /media/hyhz/GZR/chagas_founder/train_module.py
+b6752312e8b3098a74b3148eec3f6c240169d55f0f3926a436133f60245f52f8  analysis/test_b_eval.py
+# 2026-10-24T19:39:50+08:00 TEST_B amendment 1 + test_b_eval.py update (M by PROTOCOL_MOD amendment 2; descriptive ablation); val dry run with --module DEM reproduced exactly
+ea8720c99b7a75b88deb3d6d1c58634ff4b08fccead55d122efc69c101bcdd30  PROTOCOL_TEST_B.md
+4ca6b5facad4b2a5ae10a928a67ca9f667cb1df82ae205ee6bf6fc090b058664  analysis/test_b_eval.py
+# 2026-10-24T20:02:36+08:00 USER APPROVAL of the one-shot TEST_B test read ("批准"), to run automatically after the DEME val decision (M by PROTOCOL_MOD amendment 2)
+# 2026-10-24T20:45:41+08:00 test result appended (one shot)
+64ba4de407ee91e736447a5556f86b5a6304a3d3ebf4e7a8da1d83b48aefebb3  PROTOCOL_TEST_B.md

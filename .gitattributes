@@ -1,0 +1,2 @@
+# Store every file byte for byte: the protocols are hash-locked, so no line-ending conversion.
+* -text

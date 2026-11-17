@@ -1,0 +1,5 @@
+59b887ede7dcc2a4f52ef629dbf6f7cece6dc6f32fb04958846c8e44bea8df16 *chagas_baseline/PROTOCOL_TEST_H.amend3.md
+319bbd6a2e50556ceac62054b4ab1ce2e0a7656c004dc2d04041b2548e81c511 *chagas_baseline/analysis/test_h_score.py
+61ed19c20026cacc5ff6f3d9c8eb15960d27df85e1ff70f9e8566da28b50c9ff *chagas_baseline/analysis/test_h_score.v1.py
+check: v2 == v1 bitwise on AGADSE_s1234 val1024; Model class body identical in train_module.exp12.py and train_module.abl.py
+locked 2026-10-28 07:57:10 Beijing time (UTC+8); no test score of AGADSR / EPCDSR / AGABE / BASEER existed; no test analysis run

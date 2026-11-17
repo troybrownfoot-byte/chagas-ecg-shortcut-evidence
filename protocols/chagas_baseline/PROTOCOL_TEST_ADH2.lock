@@ -1,0 +1,6 @@
+783ee93ca0bef5e6d5f33acb8b3f4c9f377af3fc8bfe6b46268c1b41c10a8a69 *PROTOCOL_TEST_ADH2.md
+7c964e365094b8a33c0a71fe2c7c15286505471e06a8729ca9a6c3560879413e *analysis/test_adh2.py
+bfe2ad21b9ea6ba72e8e42d1e92f60ad0f46c80b6c049269e976158745ed896e *remote/test_adh2_ws.sh
+12dd6c2ebb175b4b743d0d8cb6742efe6e7a33d8c9870d7b7802b3775d036861 *../chagas_founder/train_module.agaadh.py
+test read 18 (runs only if stage B2 passes and read 17 supports ADH); locked before the B2 result, read 17 and any test label
+locked 2026-11-03 01:50:00 Beijing time

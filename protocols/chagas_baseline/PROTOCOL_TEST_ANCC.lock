@@ -1,0 +1,8 @@
+eb78e9c234263d11ad471feff0e6a06f88cc1f6bbfbeed8c3d3c2ff65ebb82c4 *PROTOCOL_TEST_ANCC.md
+f76c256f768d26048ba245d8a7ff76930221022b9f88fba68adac5a84d8c1680 *analysis/test_ancc.py
+a76d68e66640c68600f3495a9847b2f5e8e72611423f86857df3360bf3a90751 *collected/test_h/runs/AGADSE_s1234/test_scores_leads_th.csv
+39f38cd656dbc233b1f9928dea8d82d2e87ba39a6ee89320ed9bd3d661322814 *collected/test_h/runs/AGADSE_s1235/test_scores_leads_th.csv
+1bc8eb839b411531c2699ba8539b395e629bd8bea28951aab17e9aa23085aec5 *collected/test_h/runs/AGADSE_s1236/test_scores_leads_th.csv
+c55c221c9b66644c1f5e6ef3f379bafbcba0118c880fdb61447c97c2dc2d4e54 *analysis/results/ancc/ancc.json
+one-shot test read 14, user approval ~18:22; before any test label is read
+locked 2026-11-02 18:28:19 Beijing time

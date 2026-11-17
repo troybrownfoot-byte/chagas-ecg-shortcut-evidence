@@ -1,0 +1,4 @@
+bdb82c8116a40aacba093f252645f864a58c5ed71bb2a8ef1e9fb90b73fd57d6 *chagas_baseline/PROTOCOL_TEST_G.md
+1730e0dee1d6fb26d041d3d9a95fec6a6e3c274453dc1cd07915942334f2ae6b *chagas_baseline/analysis/test_g_eval.py
+val dry run: reproduces EXP11 exactly (EPCDSE_O_POOL-EPCDSE_O strat V1 +.0059 [+.0007,+.0106], V2 +.0031); new seeds +.0070 [+.0020,+.0116]
+locked 2026-10-27 22:24:36 Beijing time (UTC+8); no pooled test score existed at this time

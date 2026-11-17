@@ -1,0 +1,9 @@
+# 2026-11-04T01:22:59+08:00 PRECHECK_NEX2 (and conditional test read 26) locked before any NEX2 computation
+b9775440bb281cda7f5d3786810ea3095c402a8d3f3397004c2964d53682911b  PRECHECK_NEX2.md
+ac6c891b5688c3950cccc572d012e4a30b7db864bd458b9fb5dc96e0ae8909c6  analysis/nex2_fit.py
+81bf7398c3679e9b8cea4c6ec989712ca0e9eb5d65ddfdfa3d859c286984cd2f  analysis/nex2_eval.py
+c1a790264dabe28898aa765c91d6b984f3d0e98b2d05cc3b3db0ce3c514a70d5  /media/hyhz/GZR/peft_ws/train_module.adh.py
+# 2026-11-04T10:34:59+08:00 amendment 1: stage 1 run on the workstation (the rented 4090 became unreachable ~10:20 Beijing; its stage-1 outputs were never read by any stage-2 step); parameters recorded before the val read
+3ce423f69d0fdacae328f63988e44d70c58af584dab26e7e747e225b9201228f  /media/hyhz/GZR/peft_ws/nex2/out/nex2_s1234.npz
+134c1d1fd9120fc9e193f014b91f8177abdfa9aedbf74b0fb5e063122bdf1aa9  /media/hyhz/GZR/peft_ws/nex2/out/nex2_s1235.npz
+c6179d1f5a7894fc56c535fd516e6f7bcb6c9de5dbdffa4b1aa6fc928342c2d0  /media/hyhz/GZR/peft_ws/nex2/out/nex2_s1236.npz

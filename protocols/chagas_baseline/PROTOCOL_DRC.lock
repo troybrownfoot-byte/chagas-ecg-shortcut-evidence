@@ -1,0 +1,4 @@
+accfba1953afb4e0ad57f710c5fbc6d6e66dce90e966a6413140c4cb5bd580b0 *PROTOCOL_DRC.md
+adoption path for a style-family module; stages A (val NI from locked JSONs), B (external EXT_GAIN from locked _EXT reads), C (3-seed val, train-ahead seed 1236 re-designated), D (test read 28, TD1-TD3 fixed in PROTOCOL_DRC.md; implementation locked separately before any test label)
+user approval 2026-11-05 ~01:50 Beijing: '行，按你的步骤来，允许使用测试集'
+locked 2026-11-05 01:59:49 Beijing time (UTC+8), before the PRECHECK_STYLE3 / PRECHECK_FCB val reads and before both external reads

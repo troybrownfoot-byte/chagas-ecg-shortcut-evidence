@@ -1,0 +1,7 @@
+PROTOCOL_TEST_NNRG lock - written 2026-11-03 13:42:37 Beijing time, before the NNR stage B2 result and before any test label of an EPCDSEG model (test read 22)
+e54b367e4ea9a5f32780e4946de7e0aa02939dce7e299d6e283b38523e24b4a5 *PROTOCOL_TEST_NNRG.md
+74dff743f60197d99df731ea8cc5ad57b8e988992e51df350a34e021b23ba5c3 *remote/test_nnrg_ws.sh
+75bfba47a4f858daff15d6b6b15fef52831978e66029aa30290266747cb53841 *remote/make_test_nnrg.py
+936ea5e8c0b75a84b7758194bf1bb773d2261eb2823c114c94c97be3f523e6b8 *analysis/test_nnrg.py
+7b7ad77c729a551dc1f6fd1489ebae4176541ce64617ec1610cf21068c85fd59 *analysis/test_nnrg2.py
+0167481bad5641007a4588383a19af7cf5435ce795f65f0b093fbbf55466e34b *analysis/results/test_h/test_h_abl_test.json

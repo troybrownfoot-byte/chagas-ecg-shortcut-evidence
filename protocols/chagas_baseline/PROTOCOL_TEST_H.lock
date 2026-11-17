@@ -1,0 +1,7 @@
+1ea2df55bf14399e40bd4016189def3fd7eb4a1efd4326d2bbffe7859e6ca389 *chagas_baseline/PROTOCOL_TEST_H.md
+6f98269ab9d243f5f11a154b81dcf12291a90decdfd2f01e093ae99888054858 *chagas_baseline/analysis/test_h_eval.py
+39ca3b2bbd41d363a64b1a8b922d7c554adc0fdd77139fd4e21b15dc76923428 *chagas_baseline/analysis/test_h_score.py
+0d89c44bd58688d3a0e0da042ce0dbbce8ad30f6f77fdee8a6015713e49541df *chagas_founder/train_module.exp12.py
+local scorer check (1,024 val rows): AGADS_s1234 max |diff| 1.9e-4 vs host lead scores; --base-only vs EPCDS_s1234 7.6e-5
+dry run (--split val --standin, 20 bootstrap draws): analysis runs end to end; engineering check FULL12 == NOAGA12 True (stand-ins)
+first locked 01:52:11; re-locked 2026-10-28 02:09:09 only to correct the header time (an estimate, ~01:55, replaced by the clock time); no INT1/EXP12 val result and no TEST_H test score existed at either time

@@ -1,0 +1,15 @@
+{
+  "title": "Evidence package for shortcut-aware electrocardiogram screening of Chagas disease: locked protocols, hashes, test-set reads and extended results",
+  "upload_type": "dataset",
+  "description": "<p>Evidence package accompanying the manuscript <em>Shortcut-aware electrocardiogram screening for Chagas disease with demographic context and missing leads</em> (Y. Zhang, H. Zhao and J. Zhou). It contains the locked protocols and lock files of all test-set reads, the test-set usage log, the complete list of test-set reads with their hypothesis families, the training budgets of all compared methods and the extended results (Appendices A to D). No data are included. The code will be released upon acceptance.</p>",
+  "creators": [
+    {"name": "Zhang, Yunhe", "affiliation": "Southwest University of Science and Technology", "orcid": "0009-0006-1949-1681"},
+    {"name": "Zhao, Hao", "affiliation": "Southwest University of Science and Technology", "orcid": "0000-0003-3710-333X"},
+    {"name": "Zhou, Ju", "affiliation": "Southwest University of Science and Technology", "orcid": "0009-0002-4937-425X"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["Chagas disease", "electrocardiography", "deep learning", "shortcut learning", "screening", "missing leads", "preregistration"],
+  "language": "eng",
+  "version": "1.0.0"
+}
